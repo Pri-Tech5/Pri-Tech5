@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>🔭 I’m currently working on H@CTOBER_FE$T<br>🤝 I’m looking for help on how to enhance my web dev projects.<br>🌱 I’m currently learning HTML, CSS, JS & C.<br>💬 You can talk to me about Anime & Manga/Manhwa stuffs.<br>⚡ Fun fact I'm not SHY nor INTROVERT but still like spending alone times :)</h3>
+<h4>🔭 I’m currently working on H@CTOBER_FE$T<br>🤝 I’m looking for help on how to enhance my web dev projects.<br>🌱 I’m currently learning HTML, CSS, JS & C.<br>💬 You can talk to me about Anime & Manga/Manhwa stuffs.<br>⚡ Fun fact I'm not SHY nor INTROVERT but still like spending alone times :)</h4>
 
 
 ## 🌐 Socials:
