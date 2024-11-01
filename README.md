@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Priyojyoti Naskar</h1>
+<h1 align="center">Hi 👋, I'm Pri-Tech5</h1>
 <h3 align="center">Just a passionate developer who want to build some amazing projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyo&label=Profile%20views&color=38f0a9&style=plastic" alt="priyo" /> </p>
